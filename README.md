@@ -7,6 +7,10 @@ The project is the analysis of different types of cryptocurrency over various ye
 This dataset has the historical price information of some of the top crypto currencies by market capitalization.
 tasks:
 -How to Scrape Bitcoin Price in Python | Part 1 | Web Scraping
+
 -Bitcoin Cryptocurrency Data Analysis | Part 2 | Exploratory Data Analysis 
+
 -Bitcoin Cryptocurrency Time Series Forecasting in Power BI | Part 3
+
+
 -[ Cryptocurrency Analysis ] Project - Power BI Dashboard | Part 4
